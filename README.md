@@ -1,8 +1,8 @@
 # CodeLover
-Just another respository 
+Just another repository 
 
 <h1>Hello Everybody!</h1>
 
-<p> :P </p>
+<p> Test </p>
 
 
